@@ -1,3 +1,5 @@
+_This repo is years out of date and not maintained. Don't assume you need this stack of parts to build and ship a website anyway. How about [starting small](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)?_
+
 # Next.js in Docker Example
 
 This repository demonstrates a Next.js web application that uses Docker for both deployment and a development environment.
@@ -19,7 +21,6 @@ Check my commit messages to see the tutorial articles and documentation I follow
 - [x] Deploy to Kubernetes with kubectl
 - [x] Demonstrate a complete CI workflow
 - [x] Allow running CI tools against a built release artifact to validate it
-- [ ] Deploy with Helm instead of kubectl
 
 ## How this setup uses Docker
 
